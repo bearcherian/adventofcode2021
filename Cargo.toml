@@ -4,4 +4,5 @@ members = [
     "day_01_part1",
     "day_01_part2",
     "day_02_part1",
+    "day_02_part2",
 ]
